@@ -6,7 +6,7 @@ public class Test4 {
 
     public static void main(String[] args) {
 //        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext2.xml");
-        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext3Prototype.xml");
+        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext2Prototype.xml");
 
         Dog myDog = context.getBean("myPet", Dog.class);
 //        myDog.setName("Belka");
