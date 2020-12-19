@@ -2,7 +2,7 @@
 /home/a2k/NetBeansProjects/spring_cource/src/main/java/aop/MyConfig.java
 /home/a2k/NetBeansProjects/spring_cource/src/main/java/spring_introduction/Dog.java
 /home/a2k/NetBeansProjects/spring_cource/src/main/java/spring_introduction/ScopeTest.java
-/home/a2k/NetBeansProjects/spring_cource/src/main/java/aop/aspects/LogginAspect.java
+/home/a2k/NetBeansProjects/spring_cource/src/main/java/aop/aspects/LoggingAspect.java
 /home/a2k/NetBeansProjects/spring_cource/src/main/java/spring_introduction/Pet.java
 /home/a2k/NetBeansProjects/spring_cource/src/main/java/spring_introduction/Test4.java
 /home/a2k/NetBeansProjects/spring_cource/src/main/java/spring_introduction/ConfigWithAnotation1.java
