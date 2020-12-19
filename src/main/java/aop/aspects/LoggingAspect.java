@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 
 @Component
-@Aspect
+@Aspect 
 public class LoggingAspect {
     
     @Before("execution(public void getBook())")
